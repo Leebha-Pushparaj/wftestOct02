@@ -1,0 +1,11 @@
+request_id,case_id,request_type,request_description,requested_by,status,priority,assigned_to,due_date
+BRR51000551R1,BRR51000551,Data Update,Update customer address,alice,Pending,High,bob,10/10/2025
+BRR51000551R2,BRR51000551,Document Upload,Upload scanned invoice,alice,Pending,Medium,charlie,10/12/2025
+BRR51000551R3,BRR51000551,Approval,Manager approval for budget,bob,Pending,High,david,10/11/2025
+BRR51000551R4,BRR51000551,Data Correction,Correct invoice amount,bob,Pending,Low,eve,10/15/2025
+BRR51000551R5,BRR51000551,Follow-up,Follow up on pending approvals,charlie,Pending,Medium,alice,10/13/2025
+BRR51000551R6,BRR51000551,Verification,Verify submitted documents,charlie,Pending,High,bob,10/14/2025
+BRR51000551R7,BRR51000551,Data Entry,Enter new customer records,david,Pending,Medium,eve,10/16/2025
+BRR51000551R8,BRR51000551,Approval,Approve updated contract,david,Pending,High,charlie,10/17/2025
+BRR51000551R9,BRR51000551,Review,Review quarterly report,eve,Pending,High,alice,10/18/2025
+BRR51000551R10,BRR51000551,Update,Update project timeline,eve,Pending,Medium,bob,10/19/2025
